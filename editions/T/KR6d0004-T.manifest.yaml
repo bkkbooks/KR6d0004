@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0004/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0004/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 薩曇分陀利經
+  identifiers:
+    krp: KR6d0004
+    cbeta: T09n0265
+    cbeta_old_id: T09n0265
+    authorityid: CA0002703
+    json_key: T0265
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T09/T09n0265.xml
+    old_id: T09n0265
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0004_000-T.yaml, hash: 'sha256:cc76c12112ff4185b269165a7976f79f6aa314572fa4cf0f05422cfa8666a1bd'}
+  - {seq: 1, filename: KR6d0004_001-T.yaml, hash: 'sha256:a380dd9980eaa83a171da5f4b63a208b9d364f666d8c9df380f7a9f84bfb5edf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0004_000-T.markers.yaml, hash: 'sha256:99ef1fb5dbfd6137676379474271e14ce1ab4d9536b05b08ac8d93347282e702'}
+  - {seq: 1, role: markers, filename: assets/KR6d0004_001-T.markers.yaml, hash: 'sha256:be9ddcc5f2dd17f2f2b34f9363fd034ee85d219669080583cfef089b5ab6966b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0004_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1468
+  label: 薩曇分陀利經一卷
+  type: juan
+  level: 1
+hash: sha256:96795ee8e00d6ab03b09e0e39cb1a53575806366adf70e11d8f66d403d0c4470
