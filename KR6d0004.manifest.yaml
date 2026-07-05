@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0004_000.yaml, hash: 'sha256:cc76c12112ff4185b269165a7976f79f6aa314572fa4cf0f05422cfa8666a1bd'}
-  - {seq: 1, filename: KR6d0004_001.yaml, hash: 'sha256:d29d14b6dba9888c6d8b528492fa5471830a6e9c7acafa61f94105fbd04c5db9'}
+  - {seq: 1, filename: KR6d0004_001.yaml, hash: 'sha256:a380dd9980eaa83a171da5f4b63a208b9d364f666d8c9df380f7a9f84bfb5edf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0004_001.markers.yaml, hash: 'sha256:fb5e31e73745b57b90686c7a374431b6c9041482866cfc9555293e43d9e83301'}
+  - {seq: 0, role: markers, filename: assets/KR6d0004_000.markers.yaml, hash: 'sha256:c9348094c93b5ccfb859ca949526ea3e25b1ca1b6d68e63ae1f98f4483dabcf8'}
+  - {seq: 1, role: markers, filename: assets/KR6d0004_001.markers.yaml, hash: 'sha256:2b2857a96ab8bf67103bfa12a63db9c0d95b3390b9b05367612f9fb627fb301b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 薩曇分陀利經一卷
   type: juan
   level: 1
-hash: sha256:f0f3e579d54387af969915cb0c64e74a9ca58fd14572053942f809a61ed88a48
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a8d40919d002b17a830aa9fb5db93eb14ba1417c00ada4a0c5d9085008bb8fd8
