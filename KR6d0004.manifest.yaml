@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0004/v1
 canonical_location: https://kanripo.org/bkk/KR6d0004/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 薩曇分陀利經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0004_000.yaml, hash: 'sha256:cc76c12112ff4185b269165a7976f79f6aa314572fa4cf0f05422cfa8666a1bd'}
-  - {seq: 1, filename: KR6d0004_001.yaml, hash: 'sha256:a380dd9980eaa83a171da5f4b63a208b9d364f666d8c9df380f7a9f84bfb5edf'}
+  - {seq: 1, filename: KR6d0004_001.yaml, hash: 'sha256:8e8b9b1a1089125a654fc697a2a794ff38493073ab094728a14abbd1d5688380'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0004_000.markers.yaml, hash: 'sha256:c9348094c93b5ccfb859ca949526ea3e25b1ca1b6d68e63ae1f98f4483dabcf8'}
-  - {seq: 1, role: markers, filename: assets/KR6d0004_001.markers.yaml, hash: 'sha256:2b2857a96ab8bf67103bfa12a63db9c0d95b3390b9b05367612f9fb627fb301b'}
+  - {seq: 1, role: markers, filename: assets/KR6d0004_001.markers.yaml, hash: 'sha256:7c09df880b347de737ea4c36c2b6b10b1a68e6360976d92cb322cae73b54b503'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 薩曇分陀利經一卷
   type: juan
   level: 1
-hash: sha256:a8d40919d002b17a830aa9fb5db93eb14ba1417c00ada4a0c5d9085008bb8fd8
+hash: sha256:1ab2a2e9117002845158359f7b1540368f9c9c6da063a3b046060f1d6f9b7964
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
