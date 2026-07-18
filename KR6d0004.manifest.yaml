@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6d0004_000.yaml, hash: 'sha256:cc76c12112ff4185b269165a7976f79f6aa314572fa4cf0f05422cfa8666a1bd'}
   - {seq: 1, filename: KR6d0004_001.yaml, hash: 'sha256:8e8b9b1a1089125a654fc697a2a794ff38493073ab094728a14abbd1d5688380'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0004_000.markers.yaml, hash: 'sha256:c9348094c93b5ccfb859ca949526ea3e25b1ca1b6d68e63ae1f98f4483dabcf8'}
+  - {seq: 0, role: markers, filename: assets/KR6d0004_000.markers.yaml, hash: 'sha256:64b3de8e8ed3d55ce89baf9503479072f71f696b26a2078f10612c2ea47a62a1'}
   - {seq: 1, role: markers, filename: assets/KR6d0004_001.markers.yaml, hash: 'sha256:7c09df880b347de737ea4c36c2b6b10b1a68e6360976d92cb322cae73b54b503'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 薩曇分陀利經一卷
   type: juan
   level: 1
-hash: sha256:1ab2a2e9117002845158359f7b1540368f9c9c6da063a3b046060f1d6f9b7964
+hash: sha256:b24106cd63eed55b519a7d7f13a6804f41b6cd42774af436d9537a39b2be0f72
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
